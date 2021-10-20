@@ -1,7 +1,7 @@
 function login() {
     var username = document.getElementById("login").value;
     var password = document.getElementById("password").value;
-    if (username == "许欣欣" && password == "1029") {
+    if (username == "郭玉婷" && password == "狗儿子") {
         window.location.href = "index.html";
     } else {
         alert("用户名或者密码输入错误，请重新输入");
